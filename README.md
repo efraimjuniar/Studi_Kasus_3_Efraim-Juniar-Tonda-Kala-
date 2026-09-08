@@ -4,4 +4,4 @@ Nama: Efraim Juniar Tonda Kala'
 
 NIM: 064
 
-<img width="623" height="356" alt="image" src="https://github.com/user-attachments/assets/5ff0e71e-3394-477a-8cb3-d818faf2ae53" />
+<img width="507" height="266" alt="image" src="https://github.com/user-attachments/assets/6b20cd01-af3f-4aef-8c28-f568954a8225" />
