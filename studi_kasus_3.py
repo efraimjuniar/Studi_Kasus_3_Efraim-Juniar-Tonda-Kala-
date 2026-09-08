@@ -53,6 +53,9 @@ while True:
             print("nilai", nilai, "masuk kelompok remedi:", remedi)
 
 
+print("~~~~~~~~~~~~~~~~~")
+print("===Hasil Akhir===")
+print("~~~~~~~~~~~~~~~~~")
 print("seluruh nilai yang diinput:", nilai_masuk)
 print("nilai yang lulus:", lulus)
 print("nilai yang remedi:", remedi)
